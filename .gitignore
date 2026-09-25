@@ -30,7 +30,6 @@ next-env.d.ts
 # vercel
 .vercel
 Agent.md
-src/data/
 
 #claude
 .claude

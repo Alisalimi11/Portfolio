@@ -1,0 +1,14 @@
+[
+  {
+    "group": "Frontend",
+    "items": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "HTML", "CSS"]
+  },
+  {
+    "group": "Tools",
+    "items": ["Git", "GitHub", "Figma"]
+  },
+  {
+    "group": "Programming",
+    "items": ["Python", "C", "C++", "C#"]
+  }
+]

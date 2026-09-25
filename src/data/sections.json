@@ -1,0 +1,6 @@
+[
+  { "num": "01", "id": "intro", "label": "Intro" },
+  { "num": "02", "id": "work", "label": "Work" },
+  { "num": "03", "id": "about", "label": "About" },
+  { "num": "04", "id": "contact", "label": "Contact" }
+]

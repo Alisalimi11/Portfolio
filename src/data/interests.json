@@ -1,0 +1,12 @@
+[
+  {
+    "index": "01",
+    "title": "Backend Engineering",
+    "description": "Server-side logic, databases and scalable APIs — moving toward full-stack."
+  },
+  {
+    "index": "02",
+    "title": "Applied AI",
+    "description": "Machine learning, NLP and data-driven, intelligent product experiences."
+  }
+]

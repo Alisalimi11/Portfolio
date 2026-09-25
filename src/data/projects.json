@@ -1,0 +1,26 @@
+[
+  {
+    "index": "01",
+    "title": "BatBooks",
+    "subtitle": "Social Reading & Writing Platform",
+    "description": "A responsive frontend for a collaborative reading and writing platform. Built with reusable components for book listings, profiles and comments, a mobile-first layout, and REST API integration.",
+    "role": "Frontend Development",
+    "stack": ["React", "Tailwind CSS", "REST API", "Responsive Design"],
+    "year": null,
+    "links": [
+      { "label": "Repository", "url": "https://github.com/batbooks/frontend" }
+    ]
+  },
+  {
+    "index": "02",
+    "title": "TF-IDF Text Search Engine",
+    "subtitle": "Relevance-Ranked Document Search",
+    "description": "A search engine that ranks text documents by relevance using the TF-IDF algorithm. Uses NLTK for preprocessing — tokenization, stopword removal and stemming — and Scikit-learn for vectorization and similarity scoring.",
+    "role": "Backend / Machine Learning",
+    "stack": ["Python", "NLTK", "Scikit-learn"],
+    "year": null,
+    "links": [
+      { "label": "Repository", "url": "https://github.com/Alisalimi11/ds_project_phase1" }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "Ali Salimi",
+  "initials": "AS",
+  "role": "Frontend Developer",
+  "hero": {
+    "lines": [
+      "Frontend developer building",
+      "thoughtful digital products",
+      "and exploring intelligent systems."
+    ],
+    "supporting": "I build responsive web interfaces with React and Next.js, with a growing focus on full-stack engineering and applied AI."
+  },
+  "status": [
+    { "label": "Focus", "value": "Frontend · React · Next.js" },
+    { "label": "Exploring", "value": "Full-Stack · Applied AI" },
+    { "label": "Availability", "value": "Open to opportunities" }
+  ]
+}
