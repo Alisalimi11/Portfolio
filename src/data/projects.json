@@ -1,26 +1,79 @@
 [
   {
     "index": "01",
+    "title": "MedNiaz",
+    "subtitle": "Emergency Blood Donation Coordination Platform",
+    "description": "A responsive Persian RTL blood donation platform connecting donors with medical centers during emergencies. Features role-based workflows, API-driven blood requests, geographic search, donation reservations and request management.",
+    "role": "Frontend Development — Team Project",
+    "stack": [
+      "React",
+      "JavaScript",
+      "Vite",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "React-Query",
+      "React-Router",
+      "Axios",
+      "React-Hook-Form",
+      "React-Iran-Map"
+    ],
+    "year": "2026",
+    "links": [
+      {
+        "label": "Repository",
+        "url": "https://github.com/blood-donation-service/Frontend"
+      }
+    ]
+  },
+  {
+    "index": "02",
     "title": "BatBooks",
     "subtitle": "Social Reading & Writing Platform",
     "description": "A responsive frontend for a collaborative reading and writing platform. Built with reusable components for book listings, profiles and comments, a mobile-first layout, and REST API integration.",
     "role": "Frontend Development",
     "stack": ["React", "Tailwind CSS", "REST API", "Responsive Design"],
-    "year": null,
+    "year": "2025",
     "links": [
       { "label": "Repository", "url": "https://github.com/batbooks/frontend" }
     ]
   },
   {
-    "index": "02",
+    "index": "03",
     "title": "TF-IDF Text Search Engine",
     "subtitle": "Relevance-Ranked Document Search",
     "description": "A search engine that ranks text documents by relevance using the TF-IDF algorithm. Uses NLTK for preprocessing — tokenization, stopword removal and stemming — and Scikit-learn for vectorization and similarity scoring.",
     "role": "Backend / Machine Learning",
     "stack": ["Python", "NLTK", "Scikit-learn"],
-    "year": null,
+    "year": "2024",
     "links": [
-      { "label": "Repository", "url": "https://github.com/Alisalimi11/ds_project_phase1" }
+      {
+        "label": "Repository",
+        "url": "https://github.com/Alisalimi11/ds_project_phase1"
+      }
+    ]
+  },
+  {
+    "index": "04",
+    "title": "CodeBlog",
+    "subtitle": "Persian RTL Blogging Platform",
+    "description": "A responsive Persian RTL blogging platform built with React and Vite. It fetches article data from a remote API and provides article discovery through featured posts, categories, search and dedicated article pages, alongside dark mode and web push notification support.",
+    "role": "Frontend Development",
+    "stack": [
+      "React",
+      "Vite",
+      "Redux Toolkit",
+      "React Router",
+      "React Bootstrap",
+      "CSS Modules",
+      "Framer Motion",
+      "OneSignal"
+    ],
+    "year": "2025",
+    "links": [
+      {
+        "label": "Repository",
+        "url": "https://github.com/Alisalimi11/Blog-app"
+      }
     ]
   }
 ]
