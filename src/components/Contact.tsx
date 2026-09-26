@@ -11,7 +11,7 @@ export default function Contact() {
       className="mx-auto w-full max-w-[1280px] scroll-mt-24 px-gutter py-20 sm:py-28"
     >
       <div id="contact-heading">
-        <SectionHeader num="04" label="Contact" />
+        <SectionHeader num="05" label="Contact" />
       </div>
 
       <div className="mt-14 grid grid-cols-1 gap-x-8 gap-y-14 md:grid-cols-12">

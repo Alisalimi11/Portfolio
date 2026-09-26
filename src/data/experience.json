@@ -1,0 +1,14 @@
+[
+  {
+    "company": "Hamfa",
+    "position": "Frontend Developer",
+    "duration": "2026 — Present",
+    "description": "Developing admin panels for Android-based products using React, TypeScript, and Tailwind CSS."
+  },
+  {
+    "company": "Youzpal",
+    "position": "Frontend Intern",
+    "duration": "2025 — 2025",
+    "description": "Designed interfaces in Figma and built responsive web pages using Next.js, TypeScript, and Tailwind CSS."
+  }
+]

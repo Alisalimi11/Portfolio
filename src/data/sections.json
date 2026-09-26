@@ -1,6 +1,7 @@
 [
   { "num": "01", "id": "intro", "label": "Intro" },
-  { "num": "02", "id": "work", "label": "Work" },
-  { "num": "03", "id": "about", "label": "About" },
-  { "num": "04", "id": "contact", "label": "Contact" }
+  { "num": "02", "id": "experience", "label": "Experience" },
+  { "num": "03", "id": "work", "label": "Work" },
+  { "num": "04", "id": "about", "label": "About" },
+  { "num": "05", "id": "contact", "label": "Contact" }
 ]

@@ -12,7 +12,7 @@ export default function About() {
       className="mx-auto w-full max-w-[1280px] scroll-mt-24 px-gutter py-20 sm:py-28"
     >
       <div id="about-heading">
-        <SectionHeader num="03" label="About" />
+        <SectionHeader num="04" label="About" />
       </div>
 
       {/* Lead + body */}

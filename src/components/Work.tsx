@@ -11,7 +11,7 @@ export default function Work() {
     >
       <div id="work-heading">
         <SectionHeader
-          num="02"
+          num="03"
           label="Work"
           title="Selected projects — built, shipped, and refined."
         />

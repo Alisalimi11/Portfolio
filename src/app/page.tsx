@@ -1,6 +1,7 @@
 import Nav from "@/components/Nav";
 import SideIndex from "@/components/SideIndex";
 import Hero from "@/components/Hero";
+import Experience from "@/components/Experience";
 import Work from "@/components/Work";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
@@ -36,6 +37,7 @@ export default function Home() {
       <SideIndex />
       <main>
         <Hero />
+        <Experience />
         <Work />
         <About />
         <Contact />
